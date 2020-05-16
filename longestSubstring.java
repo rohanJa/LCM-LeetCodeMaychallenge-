@@ -93,5 +93,7 @@ class longestSubstring{
         String s1=s.nextLine();
         String s2=s.nextLine();
         System.out.println(calc(s1.toCharArray(),s2.toCharArray()));
+        
+        System.out.println(calc(s1.toCharArray(),s2.toCharArray()));
     }
 }
