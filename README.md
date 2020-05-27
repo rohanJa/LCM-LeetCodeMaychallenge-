@@ -6,3 +6,4 @@
 * [minimum Swaps](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
 * [bits Sum Pair](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)
 * [Jump game](https://leetcode.com/problems/jump-game/)
+* [Code Vita Lexi String](http://leadtrackstudy.blogspot.com/2019/07/lexi-string.html)
