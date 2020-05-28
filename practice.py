@@ -1,5 +1,10 @@
 import math
 
+try:
+    print(1/0)
+except:
+    print("infinity")
+
 s="aAfaf"
 
 print(s.index('a'))
@@ -39,4 +44,13 @@ n = list(map(int,input().split()))
 a=1
 print(str[-a:]+str[:-a])
 
-index()
+#reverse
+print(str[-1::-1])
+
+
+#upper and lower case
+s="print rAsf"
+print(str.upper())
+print(str.lower())
+print(str.islower())
+print()
