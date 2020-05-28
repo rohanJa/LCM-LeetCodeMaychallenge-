@@ -4,6 +4,13 @@ try:
     print(1/0)
 except:
     print("infinity")
+    
+print(math.gcd(2,4 ))
+print(math.floor(3.4))
+print(abs(-9))
+print(int(math.sqrt(4)))
+print(int('111',2))
+print(str(bin(10))[2:])
 
 s="aAfaf"
 
@@ -48,9 +55,13 @@ print(str[-a:]+str[:-a])
 print(str[-1::-1])
 
 
-#upper and lower case
+#upper and lower method change temperoraliy in string we have to save it in a variable
+#upper and lower case 
+
 s="print rAsf"
 print(str.upper())
 print(str.lower())
 print(str.islower())
-print()
+l=s
+# print()
+
