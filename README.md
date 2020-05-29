@@ -10,4 +10,4 @@
 * [lexi String](/lexiString.py)
 * [longest Increasing Subsequence O(n^2)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
 * [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) [Code](/sieveOfErat.py)
-* [Wierd Elevator](hackerrank hackwithinfy2 pratice question)
+* [Wierd Elevator](https://www.youtube.com/watch?v=dG1kgIiM8DY)
