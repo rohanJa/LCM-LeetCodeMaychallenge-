@@ -8,3 +8,4 @@
 * [Jump game](https://leetcode.com/problems/jump-game/)
 * [Code Vita Lexi String](http://leadtrackstudy.blogspot.com/2019/07/lexi-string.html)
 * [lexi String](/lexiString.py)
+* [longest Increasing Subsequence O(n^2)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
