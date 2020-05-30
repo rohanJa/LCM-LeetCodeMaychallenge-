@@ -11,5 +11,5 @@ Questions | Code
  [Code Vita Lexi String](http://leadtrackstudy.blogspot.com/2019/07/lexi-string.html) | [Code](/lexiString.py) 
  [longest Increasing Subsequence O(n^2)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/) | 
  [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) |  [Code](/sieveOfErat.py)
- [Wierd Elevator](https://www.youtube.com/watch?v=dG1kgIiM8DY) | 
+ [Wierd Elevator](https://www.youtube.com/watch?v=dG1kgIiM8DY) | [Code](/wierdElevator.py) | [Code](/wierdElevator2.py) 
  [Prime Number and Queries](https://www.hackerrank.com/contests/adobe-codiva/challenges/prime-number-and-queries/submissions/code/1323920917) | [Code](/primeNumQuery.py)
