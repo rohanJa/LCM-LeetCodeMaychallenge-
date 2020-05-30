@@ -11,3 +11,4 @@
 * [longest Increasing Subsequence O(n^2)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
 * [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) [Code](/sieveOfErat.py)
 * [Wierd Elevator](https://www.youtube.com/watch?v=dG1kgIiM8DY)
+* [Prime Number and Queries](https://www.hackerrank.com/contests/adobe-codiva/challenges/prime-number-and-queries/submissions/code/1323920917)
