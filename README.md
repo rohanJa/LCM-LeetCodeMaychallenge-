@@ -1,14 +1,16 @@
-* [PalindromeLongestChange](https://www.hackerrank.com/challenges/richie-rich/problem)
-* [Greatest XOR ](https://www.hackerrank.com/challenges/the-great-xor/problem)
-* [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
-* [Link ](https://www.youtube.com/watch?v=RQpR3MU_g7c&feature=youtu.be)
-* [Xor1 to n](https://github.com/rohanJa/LCM-LeetCodeMaychallenge-/blob/master/xor1ton.py)
-* [minimum Swaps](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
-* [bits Sum Pair](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)
-* [Jump game](https://leetcode.com/problems/jump-game/)
-* [Code Vita Lexi String](http://leadtrackstudy.blogspot.com/2019/07/lexi-string.html)
-* [lexi String](/lexiString.py)
-* [longest Increasing Subsequence O(n^2)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
-* [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) [Code](/sieveOfErat.py)
-* [Wierd Elevator](https://www.youtube.com/watch?v=dG1kgIiM8DY)
-* [Prime Number and Queries](https://www.hackerrank.com/contests/adobe-codiva/challenges/prime-number-and-queries/submissions/code/1323920917) [Code](/primeNumQuery.py)
+Questions | Code
+--------- | ---------
+
+* [PalindromeLongestChange](https://www.hackerrank.com/challenges/richie-rich/problem) | 
+* [Greatest XOR ](https://www.hackerrank.com/challenges/the-great-xor/problem) | 
+* [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | 
+* [Link ](https://www.youtube.com/watch?v=RQpR3MU_g7c&feature=youtu.be) | 
+* [Xor1 to n](https://github.com/rohanJa/LCM-LeetCodeMaychallenge-/blob/master/xor1ton.py) |
+* [minimum Swaps](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) |
+* [bits Sum Pair](https://www.interviewbit.com/problems/different-bits-sum-pairwise/) | 
+* [Jump game](https://leetcode.com/problems/jump-game/) | 
+* [Code Vita Lexi String](http://leadtrackstudy.blogspot.com/2019/07/lexi-string.html) | [Code](/lexiString.py) 
+* [longest Increasing Subsequence O(n^2)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/) | 
+* [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) |  [Code](/sieveOfErat.py)
+* [Wierd Elevator](https://www.youtube.com/watch?v=dG1kgIiM8DY) | 
+* [Prime Number and Queries](https://www.hackerrank.com/contests/adobe-codiva/challenges/prime-number-and-queries/submissions/code/1323920917) | [Code](/primeNumQuery.py)
