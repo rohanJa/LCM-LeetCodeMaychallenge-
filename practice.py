@@ -59,9 +59,16 @@ print(str[-1::-1])
 #upper and lower case 
 
 s="print rAsf"
-print(str.upper())
-print(str.lower())
-print(str.islower())
-l=s
-# print()
+print(s.upper())
+print(s.lower())
+print(s.islower())
+print(s.islower())
+
+a="alsfmkasas"
+b="assfl13"
+c='13225'
+# isalnum will print True both for pure string (containing character) and string containing numeric
+print(b.isalpha())#if string only contain alphabet
+print(a.isalnum())#if string has all alphanumericc character
+print(c.isnumeric()) #only contain int in the string
 
