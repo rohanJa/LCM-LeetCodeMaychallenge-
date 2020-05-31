@@ -43,8 +43,7 @@ print(s) # p is not removed from the string
 
 s=s.replace("p","")
 
-print(s) # s is now removed
-
+print(s) # p is now removed from string s 
 n = list(map(int,input().split()))
 
 #rotation
@@ -69,6 +68,6 @@ b="assfl13"
 c='13225'
 # isalnum will print True both for pure string (containing character) and string containing numeric
 print(b.isalpha())#if string only contain alphabet
-print(a.isalnum())#if string has all alphanumericc character
+print(a.isalnum())#if string has all alphanumeric character
 print(c.isnumeric()) #only contain int in the string
 
