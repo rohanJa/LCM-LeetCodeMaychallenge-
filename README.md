@@ -2,7 +2,7 @@ Questions | Code
 --------- | ---------
  [PalindromeLongestChange](https://www.hackerrank.com/challenges/richie-rich/problem) | [Code](/longestPalindromeChange.py)
  [Greatest XOR ](https://www.hackerrank.com/challenges/the-great-xor/problem) | [Code](/greatestXpr.py)
- [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | 
+ [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | [Code](/arrayManipulation.py)
  [Link ](https://www.youtube.com/watch?v=RQpR3MU_g7c&feature=youtu.be) | 
  [Xor1 to n](https://www.geeksforgeeks.org/calculate-xor-1-n/) | [Code](/xor1ton.py)
  [minimum Swaps](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) |
