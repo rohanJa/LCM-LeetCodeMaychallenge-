@@ -1,10 +1,10 @@
 Questions | Code
 --------- | ---------
  [PalindromeLongestChange](https://www.hackerrank.com/challenges/richie-rich/problem) | [Code](/longestPalindromeChange.py)
- [Greatest XOR ](https://www.hackerrank.com/challenges/the-great-xor/problem) | 
+ [Greatest XOR ](https://www.hackerrank.com/challenges/the-great-xor/problem) | [Code](/greatestXpr.py)
  [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | 
  [Link ](https://www.youtube.com/watch?v=RQpR3MU_g7c&feature=youtu.be) | 
- [Xor1 to n](https://github.com/rohanJa/LCM-LeetCodeMaychallenge-/blob/master/xor1ton.py) |
+ [Xor1 to n](https://www.geeksforgeeks.org/calculate-xor-1-n/) | [Code](/xor1ton.py)
  [minimum Swaps](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) |
  [bits Sum Pair](https://www.interviewbit.com/problems/different-bits-sum-pairwise/) | 
  [Jump game](https://leetcode.com/problems/jump-game/) | 
