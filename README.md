@@ -14,3 +14,4 @@ Questions | Code
  [Wierd Elevator](https://www.youtube.com/watch?v=dG1kgIiM8DY) | [Code](/wierdElevator.py)
  [Prime Number and Queries](https://www.hackerrank.com/contests/adobe-codiva/challenges/prime-number-and-queries/submissions/code/1323920917) | [Code](/primeNumQuery.py)
  [Longest Subsequence and Substring]() | [Code](/stringDp.py)
+ [Kick Start Problem 1]() | [Code](/kickStart1.py)
