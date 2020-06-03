@@ -45,6 +45,10 @@ class divisor{
             return Long.parseLong(next()); 
         } 
   
+        double nextDouble() 
+        { 
+            return Double.parseDouble(next()); 
+        } 
   
         String nextLine() 
         { 
