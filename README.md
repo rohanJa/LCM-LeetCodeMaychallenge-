@@ -18,6 +18,7 @@ Questions | Code
  [Kick Start Problem 2]()https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb | [Code](/kickStart2.py)
 
 ## Things To DO
-- Dynamic Pogramming
+- Dynamic Progamming
 - Recursion
 - Backtracking
+- Trees
