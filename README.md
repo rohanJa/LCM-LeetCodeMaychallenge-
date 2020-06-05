@@ -16,3 +16,8 @@ Questions | Code
  [Longest Subsequence and Substring]() | [Code](/stringDp.py)
  [Kick Start Problem 1](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2) | [Code](/kickStart1.py)
  [Kick Start Problem 2]()https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb | [Code](/kickStart2.py)
+
+## Things To DO
+- Dynamic Pogramming
+-
+-
