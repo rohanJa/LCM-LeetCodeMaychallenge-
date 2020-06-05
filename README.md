@@ -19,5 +19,5 @@ Questions | Code
 
 ## Things To DO
 - Dynamic Pogramming
--
--
+- Recursion
+- Backtracking
