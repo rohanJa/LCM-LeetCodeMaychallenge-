@@ -15,7 +15,7 @@ Questions | Code
  [Prime Number and Queries](https://www.hackerrank.com/contests/adobe-codiva/challenges/prime-number-and-queries/submissions/code/1323920917) | [Code](/primeNumQuery.py)
  [Longest Subsequence and Substring]() | [Code](/stringDp.py)
  [Kick Start Problem 1](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2) | [Code](/kickStart1.py)
- [Kick Start Problem 2]()https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb | [Code](/kickStart2.py)
+ [Kick Start Problem 2](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb) | [Code](/kickStart2.py)
 
 ## Things To DO
 - Dynamic Progamming
@@ -48,7 +48,7 @@ Questions | Code
 - Array Manipulation
 - String functions
 - k-mapping
-# Have a good grip over these concepts for more preparations.
+## Have a good grip over these concepts for more preparations.
 
 # List of top five websites for Preparations —
 
