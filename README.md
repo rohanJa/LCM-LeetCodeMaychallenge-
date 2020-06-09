@@ -22,3 +22,38 @@ Questions | Code
 - Recursion
 - Backtracking
 - Trees
+
+
+# Important Topics for Preparations —
+1. Dynamic Programming
+2. Greedy Algorithms
+3. Divide and Conquer
+4. Backtracking
+5. Puzzles
+6. Algebra Concepts
+7. Number Theory
+8. 3D Mensuration
+9. Graph Theory
+10. Mapping
+
+# These are the most important topics for the preparation.
+## Important Algorithms -
+- Sieve of Eratosthenes
+- Prime number
+- Linked List Implementation
+- Array Sorting
+- Tree Traversal
+- Graph Building
+- Hashmap Implementation.
+- Array Manipulation
+- String functions
+- k-mapping
+# Have a good grip over these concepts for more preparations.
+
+# List of top five websites for Preparations —
+
+- Geeks for Geeks
+- Programiz
+- Java tutorial point
+- Shout Coders
+- Java Point
