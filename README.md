@@ -18,6 +18,7 @@ Questions | Code
  [Kick Start Problem 2](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb) | [Code](/kickStart2.py)
  [BFS](https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python) | [Code](/graphBFS.py)
 [Format](https://kite.com/python/answers/how-to-print-a-float-with-two-decimal-places-in-python) | 
+[Get Random element from the list](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/) | [Code](/getRandomListElement.py)
 
 ## Things To DO
 - Dynamic Progamming
