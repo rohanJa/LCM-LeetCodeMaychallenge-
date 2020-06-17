@@ -38,6 +38,7 @@ Questions | Code
 8. 3D Mensuration
 9. Graph Theory
 10. Mapping
+11. Prefix Sum
 
 # These are the most important topics for the preparation.
 ## Important Algorithms -
