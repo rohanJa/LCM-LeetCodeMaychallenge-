@@ -22,6 +22,8 @@ Questions | Code
 [Philaland Coin Codevita 1]() | [Code](/philalandCoin.py)
 [CACHEHIT](https://www.codechef.com/COOK119B/problems/CACHEHIT) | [Code](/cachehit.py)
 [MAXMEX](https://www.codechef.com/problems/MAXMEX) | [Code](/maxmex.py)
+[Chef Demonetisation](https://www.codechef.com/LTIME85B/problems/CHFMOT18) | [Code](/chefDemonetisation.py)
+[Max AND](https://www.codechef.com/LTIME85B/problems/MAXAND18) | [Code](/maxAnd.py)
 
 ## Things To DO
 - Dynamic Progamming
