@@ -24,6 +24,8 @@ Questions | Code
 [MAXMEX](https://www.codechef.com/problems/MAXMEX) | [Code](/maxmex.py)
 [Chef Demonetisation](https://www.codechef.com/LTIME85B/problems/CHFMOT18) | [Code](/chefDemonetisation.py)
 [Max AND](https://www.codechef.com/LTIME85B/problems/MAXAND18) | [Code](/maxAnd.py)
+[Guitar Player](https://www.codechef.com/JULY20B/problems/CHEFSTR1) | [Code](/guitarPlayer.py)
+[Card Game](https://www.codechef.com/JULY20B/submit/CRDGAME) | [Code](/cardGame.py)
 
 ## Things To DO
 - Dynamic Progamming
