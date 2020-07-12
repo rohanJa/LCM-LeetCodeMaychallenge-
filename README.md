@@ -27,6 +27,7 @@ Questions | Code
 [Guitar Player](https://www.codechef.com/JULY20B/problems/CHEFSTR1) | [Code](/guitarPlayer.py)
 [Card Game](https://www.codechef.com/JULY20B/submit/CRDGAME) | [Code](/cardGame.py)
 [Missing a Point](https://www.codechef.com/JULY20B/problems/PTMSSNG) | [Code](/rectangle.py)
+[Swap Count](https://www.codechef.com/JULY20B/problems/CHFNSWPS) | [Code](/swapCount.py)
 
 ## Things To DO
 - Dynamic Progamming
