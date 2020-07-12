@@ -26,6 +26,7 @@ Questions | Code
 [Max AND](https://www.codechef.com/LTIME85B/problems/MAXAND18) | [Code](/maxAnd.py)
 [Guitar Player](https://www.codechef.com/JULY20B/problems/CHEFSTR1) | [Code](/guitarPlayer.py)
 [Card Game](https://www.codechef.com/JULY20B/submit/CRDGAME) | [Code](/cardGame.py)
+[Missing a Point](https://www.codechef.com/JULY20B/problems/PTMSSNG) | [Code](/rectangle.py)
 
 ## Things To DO
 - Dynamic Progamming
