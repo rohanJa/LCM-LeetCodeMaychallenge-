@@ -28,7 +28,8 @@ Questions | Code
 [Card Game](https://www.codechef.com/JULY20B/submit/CRDGAME) | [Code](/cardGame.py)
 [Missing a Point](https://www.codechef.com/JULY20B/problems/PTMSSNG) | [Code 1](/rectangle.py) , [Code 2](/rectangle1.py)
 [Swap Count](https://www.codechef.com/JULY20B/problems/CHFNSWPS) | [Code](/swapCount.py)
-
+[Linked List]() | [Code](/DS/ll.py)
+[Stack]() | [Code](/DS/stack.py)
 ## Things To DO
 - Dynamic Progamming
 - Recursion
