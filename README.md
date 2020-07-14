@@ -32,7 +32,6 @@ Questions | Code
 
 Questions | Code
 --------- | ---------
-
 [Linked List]() | [Code](/DS/ll.py)
 [Stack]() | [Code](/DS/stack.py)
 [BFS](https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python) | [Code](/graphBFS.py)
