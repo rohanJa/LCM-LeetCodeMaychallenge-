@@ -16,7 +16,6 @@ Questions | Code
  [Longest Subsequence and Substring]() | [Code](/stringDp.py)
  [Kick Start Problem 1](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2) | [Code](/kickStart1.py)
  [Kick Start Problem 2](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb) | [Code](/kickStart2.py)
- [BFS](https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python) | [Code](/graphBFS.py)
 [Python Format Convert Float](https://kite.com/python/answers/how-to-print-a-float-with-two-decimal-places-in-python) | 
 [Get Random element from the list](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/) | [Code](/getRandomListElement.py)
 [Philaland Coin Codevita 1]() | [Code](/philalandCoin.py)
@@ -28,8 +27,16 @@ Questions | Code
 [Card Game](https://www.codechef.com/JULY20B/submit/CRDGAME) | [Code](/cardGame.py)
 [Missing a Point](https://www.codechef.com/JULY20B/problems/PTMSSNG) | [Code 1](/rectangle.py) , [Code 2](/rectangle1.py)
 [Swap Count](https://www.codechef.com/JULY20B/problems/CHFNSWPS) | [Code](/swapCount.py)
+
+## Data Structure Implementation
+
+Questions | Code
+--------- | ---------
+
 [Linked List]() | [Code](/DS/ll.py)
 [Stack]() | [Code](/DS/stack.py)
+[BFS](https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python) | [Code](/graphBFS.py)
+
 ## Things To DO
 - Dynamic Progamming
 - Recursion
