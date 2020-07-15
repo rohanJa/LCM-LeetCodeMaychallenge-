@@ -9,8 +9,8 @@ graph = {
 
 visited = []
 queue = []
-queue.append('B')
-visited.append('B')
+queue.append('A')
+visited.append('A')
 while queue:
 
     s=queue.pop(0)
