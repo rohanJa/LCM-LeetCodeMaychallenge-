@@ -2,12 +2,11 @@ class BaseClass:
     def fly(self):
         print('base class fly')        
     
-    def swim(self):
+    def swim1(self):
         print('base class swim')
 
 class Sub_Class(BaseClass):
     def fly(self):
-        super()
         print('Sub_Class fly')
     def swim(self):
         print('Sub_Class swim')
@@ -15,3 +14,4 @@ class Sub_Class(BaseClass):
 obj = BaseClass()
 obj1 = Sub_Class()
 obj1.fly()
+obj1.swim1() #This will call the inherited class method.
