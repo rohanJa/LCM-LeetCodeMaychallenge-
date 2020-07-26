@@ -28,6 +28,9 @@ Questions | Code
 [Missing a Point](https://www.codechef.com/JULY20B/problems/PTMSSNG) | [Code 1](/rectangle.py) , [Code 2](/rectangle1.py)
 [Swap Count](https://www.codechef.com/JULY20B/problems/CHFNSWPS) | [Code](/swapCount.py)
 [Doof on Cartesian](https://www.codechef.com/COLE2020/problems/CLPNT) | [Code](/Codechef/doofOnCartesian.py)
+[Chef and Steps](https://www.codechef.com/LTIME86B/problems/CHEFSTEP) | [Code](/Codechef/chefSteps.py)
+[]() | [Code]()
+[]() | [Code]()
 ## Data Structure Implementation
 
 Questions | Code
