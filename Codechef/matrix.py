@@ -13,10 +13,10 @@ while(t>0):
         else:
             total+=(row*col*(x))
     else:
-        multi=(row*(col-1))//2
+        multi=((row-1)*(col))//2
         if(y-x<x):
             total+=(multi*y)
-            total+=(((col)//2)*y)+(y-1) 
+            total+=((col//2)*y)+(y-1) 
         else:
             total+=(row*col*(x))
 
