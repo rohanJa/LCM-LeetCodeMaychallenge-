@@ -30,7 +30,7 @@ Questions | Code
 [Doof on Cartesian](https://www.codechef.com/COLE2020/problems/CLPNT) | [Code](/Codechef/doofOnCartesian.py)
 [Chef and Steps](https://www.codechef.com/LTIME86B/problems/CHEFSTEP) | [Code](/Codechef/chefSteps.py)
 [Maximum Candies](https://www.codechef.com/LTIME86B/problems/CHECHOC) | [Code](/Codechef/matrix.py)
-
+[Binary Concatenation](https://www.codechef.com/LTIME86B/problems/BINFUN) | [Code](/Codechef/.py)
 ## Data Structure Implementation
 
 Questions | Code
