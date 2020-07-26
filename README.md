@@ -29,8 +29,8 @@ Questions | Code
 [Swap Count](https://www.codechef.com/JULY20B/problems/CHFNSWPS) | [Code](/swapCount.py)
 [Doof on Cartesian](https://www.codechef.com/COLE2020/problems/CLPNT) | [Code](/Codechef/doofOnCartesian.py)
 [Chef and Steps](https://www.codechef.com/LTIME86B/problems/CHEFSTEP) | [Code](/Codechef/chefSteps.py)
-[]() | [Code]()
-[]() | [Code]()
+[Maximum Candies](https://www.codechef.com/LTIME86B/problems/CHECHOC) | [Code](/Codechef/matrix.py)
+
 ## Data Structure Implementation
 
 Questions | Code
