@@ -1,7 +1,7 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
 n=int(input())
-
+# nedd to optimize
 prime=[True for i in range(n+1)]
 p=2
 while(p*p<=n):
