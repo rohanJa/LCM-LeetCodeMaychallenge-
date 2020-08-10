@@ -28,7 +28,7 @@ while(t!=0):
             x_factor =int( x_factor/prime_number)
             time+=1
         while(y_factor % prime_number == 0):
-            y_factor = int(y_factor/prime_number)
+            y_factor = int(y_factor/prifme_number)
             time+=1
         if(x_factor==1 and y_factor==1):
             break
