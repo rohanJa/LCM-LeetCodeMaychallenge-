@@ -24,3 +24,14 @@ class Solution(object):
                 return False
                 
         return True    
+
+
+
+
+arr = list(map(int,input().split()))
+
+count = [1 for val in arr ]
+
+for i in range(0,len(arr)):
+    for j in range(i+1,len(arr)):
+        if(arr[j]<arr[j])
