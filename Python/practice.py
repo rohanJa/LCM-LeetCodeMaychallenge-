@@ -4,7 +4,7 @@ try:
     print(1/0)
 except:
     print("infinity")
-    
+
 print(math.gcd(2,4 ))
 print(math.floor(3.4))
 print(abs(-9))
@@ -70,3 +70,17 @@ print(b.isalpha())      # if string only contain alphabet
 print(a.isalnum())      # if string has all alphanumeric character
 print(c.isnumeric())    # only contain int in the string
 
+
+# Binary Search implementation
+
+left=0
+right=lenA-1
+while(left<=right):
+    mid=left+(right-left)//2
+    if(arr[mid]==item):
+        return index
+    elif(arr[mid]>item):
+        right=mid-1
+    else
+        left=mid+1
+return -1
