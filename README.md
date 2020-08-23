@@ -75,6 +75,7 @@
 - Array Manipulation
 - String functions
 - k-mapping
+- Segment Tree
 
 ## Have a good grip over these concepts for more preparations.
 
