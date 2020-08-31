@@ -31,6 +31,7 @@
 | [Chef and Steps](https://www.codechef.com/LTIME86B/problems/CHEFSTEP)                                                                        | [Code](/Codechef/chefSteps.py)                     |
 | [Maximum Candies](https://www.codechef.com/LTIME86B/problems/CHECHOC)                                                                        | [Code](/Codechef/matrix.py)                        |
 | [Binary Concatenation](https://www.codechef.com/LTIME86B/problems/BINFUN)                                                                    | [Code](/Codechef/.py)                              |
+| [Elections](/Codevita)                                                                                                                       | [Code](/)                                          |
 
 ## Data Structure Implementation
 
